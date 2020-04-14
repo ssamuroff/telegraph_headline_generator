@@ -1,4 +1,4 @@
-Realistic Daily Telegraph opinion pieces, on the command line!
+Generate realistic headlines for Daily Telegraph opinion pieces, on the command line!
 
 
 ## Usage 
