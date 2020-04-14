@@ -1,6 +1,6 @@
 import numpy as np
 
-authors = ['Melanie Phillips', 'Robbie Gibb', 'Ann Widdecombe', 'Dominic Raab', 'Allison Pearson', 'Norman Tebbit', 'Daniel Hannan', 'John Redwood', 'Nick Timothy', 'Boris Johnson', 'Fraser Nelson', 'Katie Hopkins', 'Rod Liddle', 'Toby Young', 'Max Hastings', 'Charles Moore', 'Laurence Fox', 'Ricky Gervais', 'Piers Morgan', 'Peter Hitchens']
+authors = ['Melanie Phillips', 'Janet Daley','Robbie Gibb', 'Ann Widdecombe', 'Dominic Raab', 'Allison Pearson', 'Norman Tebbit', 'Daniel Hannan', 'John Redwood', 'Nick Timothy', 'Boris Johnson', 'Fraser Nelson', 'Katie Hopkins', 'Rod Liddle', 'Toby Young', 'Max Hastings', 'Charles Moore', 'Laurence Fox', 'Ricky Gervais', 'Piers Morgan', 'Peter Hitchens']
 
 bad_things = ['cancer', 'coronavirus', 'teenage pregnancy', 'youth illiteracy', 'youth unemployment', 'dementia', 'child poverty', 'depression', 'climate change', 'North Korea']
 bugbears = ['the European Union', 'the licence fee', 'the creeping rise of youth culture', 'Michel Barnier', 'Jean-Claude Juncker', 'the BBC', 'generation snowflake', "'woke' culture", "'generation me'", 'the collapse of the traditional family', 'Meghan Markle', 'Price Harry', 'Ed Miliband', 'Sir Keir Starmer', 'the Labour Party', 'Islam', 'the metropolitan elite', "left wing 'academia'", 'uncontrolled immigration', 'the trans rights industry', "'feminism'", 'the weather forecasting elite', 'Olivia Coleman', "Guardian-reading liberalism"]
@@ -24,9 +24,10 @@ templates = ["It's true: $BB really is to blame for $BT",
              "$BB must start thinking about others if we're to stop $BT",
              "What did the Romans and the Greeks teach $GP about $BT?",
              "No $BT please, we're British",
-             "Worried about $BT? Here's the prescription from Doctor $GP",
+             "Worried about $BT? Here's the prescription from $GP",
              "We need you, $GP. Your health is the health of the nation.",
-             "Let's believe in Britain and lead the world in the battle against $BT." ]
+             "Let's believe in Britain and lead the world in the battle against $BT.",
+             "Disdainful $BB is doing a disservice to British democracy" ]
 
 
 class Article:
