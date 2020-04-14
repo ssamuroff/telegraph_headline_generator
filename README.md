@@ -20,7 +20,7 @@ Melanie Phillips:
 
 ------------------------
 Boris Johnson:
-"It's true: the BBC really is to blame for poverty"
+"It's true: the BBC really is to blame for child poverty"
 ------------------------
 
 ------------------------
