@@ -9,21 +9,21 @@ user$ python telegraph_headlines.py
 
 ------------------------
 John Redwood:
-Only one question matters now: what would Prince Philip do?
+"Only one question matters now: what would Prince Philip do?"
 ------------------------
 
 ------------------------
-Fraser Nelson:
-youth unemployment: why ministers need to be honest about Meghan Markle
+Melanie Phillips:
+"youth unemployment: why ministers need to be honest about Meghan Markle"
 ------------------------
 
 
 ------------------------
 Boris Johnson:
-It's true: the BBC really is to blame for poverty
+"It's true: the BBC really is to blame for poverty"
 ------------------------
 
 ------------------------
 Fraser Nelson:
-How 'feminism' could learn a thing or two from Mark Francois
+"How 'feminism' could learn a thing or two from Mark Francois"
 ------------------------
