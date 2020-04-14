@@ -2,7 +2,7 @@ import numpy as np
 
 authors = ['Melanie Phillips', 'Robbie Gibb', 'Ann Widdecombe', 'Dominic Raab', 'Allison Pearson', 'Norman Tebbit', 'Daniel Hannan', 'John Redwood', 'Nick Timothy', 'Boris Johnson', 'Fraser Nelson', 'Katie Hopkins', 'Rod Liddle', 'Toby Young', 'Max Hastings', 'Charles Moore', 'Laurence Fox', 'Ricky Gervais', 'Piers Morgan', 'Peter Hitchens']
 
-bad_things = ['cancer', 'coronavirus', 'teenage pregnancy', 'youth illiteracy', 'youth unemployment', 'dementia', 'poverty', 'depression', 'climate change', 'North Korea']
+bad_things = ['cancer', 'coronavirus', 'teenage pregnancy', 'youth illiteracy', 'youth unemployment', 'dementia', 'child poverty', 'depression', 'climate change', 'North Korea']
 bugbears = ['the European Union', 'the licence fee', 'the creeping rise of youth culture', 'Michel Barnier', 'Jean-Claude Juncker', 'the BBC', 'generation snowflake', "'woke' culture", "'generation me'", 'the collapse of the traditional family', 'Meghan Markle', 'Price Harry', 'Ed Miliband', 'Sir Keir Starmer', 'the Labour Party', 'Islam', 'the metropolitan elite', "left wing 'academia'", 'uncontrolled immigration', 'the trans rights industry', "'feminism'", 'the weather forecasting elite', 'Olivia Coleman', "Guardian-reading liberalism"]
 good_things = ['traditional marriage', 'Christian Values', 'British Values', 'military discipline', 'the Blitz Spirit', 'curtsying', 'deference', 'good old fashioned manners' ]
 good_people = ['Nigel Farage', 'Winston Churchill', 'Margaret Thatcher', 'Boris Johnson', 'the Queen', 'Prince Philip', 'Prince William', 'the police', 'the army', 'Tim Martin', 'David Davis', 'Mark Francois' ]
